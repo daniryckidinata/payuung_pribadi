@@ -233,7 +233,7 @@ class _PersonalInformationScreenState extends State<PersonalInformationScreen> {
                   children: <Widget>[
                     DropdownButtonFormField<String>(
                       decoration: const InputDecoration(labelText: 'Posisi'),
-                      value: 'Developer',
+                      value: _userModel.position,
                       items: _positions.map((position) {
                         return DropdownMenuItem(
                           value: position,

@@ -1,0 +1,12 @@
+<svg height="19.358" viewBox="0 0 20.233 19.358" width="20.233" xmlns="http://www.w3.org/2000/svg">
+  <g data-name="cart icon" id="cart_icon" transform="translate(-308.853 -749.353)">
+    <g id="browser" transform="translate(309.353 749.853)">
+      <g data-name="Icon feather-shopping-cart" id="Icon_feather-shopping-cart" transform="translate(0 0)">
+        <path d="M8.748,18.374a.874.874,0,1,1-.874-.874A.874.874,0,0,1,8.748,18.374Z" data-name="Path 7131" fill="none" id="Path_7131" stroke="#2f3640" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" transform="translate(-0.881 -0.89)" />
+        <path d="M18.373,18.374A.874.874,0,1,1,17.5,17.5.874.874,0,0,1,18.373,18.374Z" data-name="Path 7132" fill="none" id="Path_7132" stroke="#2f3640" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" transform="translate(-0.889 -0.89)" />
+        <path d="M.875.875h3.5L6.715,12.581a1.748,1.748,0,0,0,1.748,1.407h8.5a1.748,1.748,0,0,0,1.748-1.407l1.4-7.335H5.246" data-name="Path 7133" fill="none" id="Path_7133" stroke="#2f3640" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" transform="translate(-0.875 -0.875)" />
+      </g>
+    </g>
+    <path d="M14.777,11.711H12.45V9.355a.386.386,0,1,0-.772,0v2.356H9.351a.391.391,0,0,0-.273.666.382.382,0,0,0,.273.115h2.327v2.356a.392.392,0,0,0,.113.276.382.382,0,0,0,.273.115.389.389,0,0,0,.386-.391V12.493h2.327a.391.391,0,0,0,0-.781Z" data-name="Icon ionic-ios-add" fill="#2f3640" id="Icon_ionic-ios-add" transform="translate(308.943 746.486)" />
+  </g>
+</svg>

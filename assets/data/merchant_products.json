@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "imageUrl":
+          "https://1000logos.net/wp-content/uploads/2017/05/North-Face-Logo.png",
+      "name": "Voucher Digital The North Face 100rb",
+      "price": "Rp 97.000",
+      "categoryId": 1,
+      "categoryIcon": "assets/icons/i_category_travelling.svg",
+      "categoryName": "Hobi"
+    },
+    {
+      "id": 2,
+      "imageUrl":
+          "https://i.pinimg.com/736x/94/8c/7f/948c7f31df5eb63955907221228842d7.jpg",
+      "name": "Voucher Digital H&M 100rb",
+      "price": "Rp 98.000",
+      "categoryId": 2,
+      "categoryIcon": "assets/icons/i_category_fashion.svg",
+      "categoryName": "Merchandise"
+    },
+    {
+      "id": 3,
+      "imageUrl":
+          "https://e7.pngegg.com/pngimages/15/971/png-clipart-logo-the-timberland-company-drawing-boot-thumbnail.png",
+      "name": "Voucher Digital Timberland 250rb",
+      "price": "Rp 243.000",
+      "categoryId": 3,
+      "categoryIcon": "assets/icons/i_category_healthy_life.svg",
+      "categoryName": "Gaya Hidup Sehat"
+    },
+    {
+      "id": 4,
+      "imageUrl":
+          "https://antinomi.org/wp-content/uploads/2022/03/logo-gopay-vector.png",
+      "name": "GOPAY 100rb",
+      "price": "Rp 99.000",
+      "categoryId": 4,
+      "categoryIcon": "assets/icons/i_category_personal_finance.svg",
+      "categoryName": "Perencanaan Keuangan"
+    },
+    {
+      "id": 5,
+      "imageUrl":
+          "https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_PLN.png",
+      "name": "Token Listrik PLN 300rb",
+      "price": "Rp 295.000",
+      "categoryId": 5,
+      "categoryIcon": "assets/icons/i_category_electric.svg",
+      "categoryName": "Pulsa dan Listrik"
+    },
+    {
+      "id": 6,
+      "imageUrl":
+          "https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo_Indomaret.png",
+      "name": "Voucher Digital Indomaret 30rb",
+      "price": "Rp 30.000",
+      "categoryId": 6,
+      "categoryIcon": "assets/icons/i_category_household.svg",
+      "categoryName": "Kebutuhan Harian"
+    },
+    {
+        "id": 7,
+        "imageUrl":
+            "https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo_Indomaret.png",
+        "name": "Voucher Digital Indomaret 50rb",
+        "price": "Rp 49.000",
+        "categoryId": 6,
+        "categoryIcon": "assets/icons/i_category_household.svg",
+        "categoryName": "Kebutuhan Harian"
+      },
+      {
+        "id": 8,
+        "imageUrl":
+            "https://antinomi.org/wp-content/uploads/2022/03/logo-gopay-vector.png",
+        "name": "GOPAY 50rb",
+        "price": "Rp 47.000",
+        "categoryId": 4,
+        "categoryIcon": "assets/icons/i_category_personal_finance.svg",
+        "categoryName": "Perencanaan Keuangan"
+      },
+      {
+        "id": 9,
+        "imageUrl":
+            "https://e7.pngegg.com/pngimages/15/971/png-clipart-logo-the-timberland-company-drawing-boot-thumbnail.png",
+        "name": "Voucher Digital Timberland 100rb",
+        "price": "Rp 99.000",
+        "categoryId": 3,
+        "categoryIcon": "assets/icons/i_category_healthy_life.svg",
+        "categoryName": "Gaya Hidup Sehat"
+      }
+  ]

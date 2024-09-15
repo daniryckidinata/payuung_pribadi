@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "icon": "assets/icons/i_nav_home.svg",
+      "name": "Beranda"
+    },
+    {
+      "id": 2,
+      "icon": "assets/icons/i_nav_search.svg",
+      "name": "Cari"
+    },
+    {
+      "id": 3,
+      "icon": "assets/icons/i_nav_cart.svg",
+      "name": "Keranjang"
+    },
+    {
+      "id": 4,
+      "icon": "assets/icons/i_nav_transaction.svg",
+      "name": "Daftar Transaksi"
+    },
+    {
+      "id": 5,
+      "icon": "assets/icons/i_nav_voucher.svg",
+      "name": "Voucher Saya"
+    },
+    {
+      "id": 6,
+      "icon": "assets/icons/i_nav_address.svg",
+      "name": "Alamat Pengiriman"
+    },
+    {
+      "id": 7,
+      "icon": "assets/icons/i_nav_friend.svg",
+      "name": "Daftar Teman"
+    }
+  ]

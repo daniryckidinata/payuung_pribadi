@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.25" height="19.5" viewBox="0 0 17.25 19.5">
+  <g id="home_button" data-name="home button" transform="translate(0.75 0.75)">
+    <g id="Icon_feather-home" data-name="Icon feather-home" transform="translate(0 0)">
+      <path id="Path_7127" data-name="Path 7127" d="M4.5,9.3,12.375,3,20.25,9.3v9.9A1.776,1.776,0,0,1,18.5,21H6.25A1.776,1.776,0,0,1,4.5,19.2Z" transform="translate(-4.5 -3)" fill="none" stroke="#2f3640" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <g id="Ellipse_614" data-name="Ellipse 614" transform="translate(4.329 7.059)" fill="none" stroke="#2f3640" stroke-width="1.5">
+        <circle cx="3.375" cy="3.375" r="3.375" stroke="none"/>
+        <circle cx="3.375" cy="3.375" r="2.625" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

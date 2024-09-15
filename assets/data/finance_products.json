@@ -1,0 +1,7 @@
+[
+    {"icon": "assets/icons/i_finance_community.svg", "name": "Urun"},
+    {"icon": "assets/icons/i_finance_hajj.svg", "name": "Pembiayaan Porsi Haji"},
+    {"icon": "assets/icons/i_finance_check_up.svg", "name": "Financial Check Up"},
+    {"icon": "assets/icons/i_finance_ci.svg", "name": "Asuransi Mobil"},
+    {"icon": "assets/icons/i_finance_pi.svg", "name": "Asuransi Properti"}
+  ]
